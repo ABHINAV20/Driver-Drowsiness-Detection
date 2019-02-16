@@ -11,4 +11,4 @@
 
 ## Descrption
 
-Python app to detect driver drowsiness while driving using opencv, imutils, dlib.
+Python app to detect driver drowsiness while driving.
